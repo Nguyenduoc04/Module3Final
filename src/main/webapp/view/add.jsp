@@ -3,6 +3,7 @@
 
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Thêm mới mặt bằng</title>
 </head>
 <body>

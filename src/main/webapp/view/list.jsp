@@ -4,6 +4,7 @@
 
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Danh sách mặt bằng</title>
 </head>
 <body>
